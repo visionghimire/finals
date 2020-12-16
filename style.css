@@ -1,0 +1,16 @@
+body {
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+label {
+	color: #65D6CE;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+}
+h1{
+	padding-top: 10px;
+	font-family: "Lucida Handwriting";
+	color: #54E346;
+}
